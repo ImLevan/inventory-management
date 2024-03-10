@@ -6,7 +6,7 @@
 > © Desarrollado por Valentin Chianese
 ## Descripción
 
-Inventario Management es una aplicación de escritorio que proporciona un sistema completo para gestionar inventarios y ventas. El proyecto está diseñado para facilitar las tareas de gestión relacionadas con usuarios, categorías, productos, proveedores, existencias y ventas en un entorno de negocios.
+Inventory Management es una aplicación de escritorio que proporciona un sistema completo para gestionar inventarios y ventas. El proyecto está diseñado para facilitar las tareas de gestión relacionadas con usuarios, categorías, productos, proveedores, existencias y ventas en un entorno de negocios.
 
 Las características principales del proyecto son:
 
